@@ -20,5 +20,8 @@ Stretch goals:
 ●	Gemini 1.5 Pro / Claude 3.5 Sonnet API (available API keys).
 6. Who does what: 
 Rabina:
+(Frontend & User Experience): Interface (Streamlit / Next.js /FastHTML), video display, question chips, test widget, and reward system.
 Zhansulu:
+(Evaluation & Math Engine): Creating an assessment dataset, writing evaluation scripts (Evaluation test suite), integrating task verification (Assessment Agent).
 Karina
+(Backend & Agent Architecture): Multi-Agent Graph development (LangGraph/Python), integration with YouTube API and transcriptors
